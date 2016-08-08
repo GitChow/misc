@@ -1,3 +1,4 @@
+# skype concurrent AV conf sessions per min
 $dataSource = "server\db"
 $user = "user"
 $pwd = "pass"
